@@ -186,7 +186,8 @@ Announcement:
 
 New Features:
 
-* A new setting `r.libPaths` is added to support additional library paths to be appended to `.libPaths()` when R background processes (R language server and help server) are launched. It could be useful for projects with [renv](https://rstudio.github.io/renv/articles/renv.html) enabled where required packages (e.g. `languageserver` and `jsonlite`) to use vscode-R are only installed in other location. For more details, checkout the [wiki](https://github.com/REditorSupport/vscode-R/wiki/Working-with-renv-enabled-projects). (#1071, #1097, #1098)
+* A new setting `r.libPaths` is added to support additional library paths to be appended to `.libPaths()` when R background processes (R language server and help server) are launched. It could be useful for projects with [renv](https://rstudio.github.io/renv/articles/renv.html) enabled where required packages (e.g. `languageserver` and `jsonlite`) to use vscode-R are only installed in other location. For more details, checkout the [wiki](https://github.com/REditorSupport/vscode-R/wiki/Working-with-renv-enabled-projects). (#1071, #1097, #1098)<img width="728" height="336" alt="img_launcher" src="https://github.com/user-attachments/assets/a8f5f706-3dcd-4388-bb2d-504141aac2e6" />
+
 
 Enhancements:
 
@@ -998,14 +999,23 @@ This version includes minor fix to stable new functions
 ## v0.0.3
 
 * Support R documentation
+<img width="40" height="40" alt="btn_close_over" src="https://github.com/user-attachments/assets/9797622c-e920-49a8-8c26-9217d3c49fd1" />
+<img width="40" height="40" alt="btn_close_over" src="https://github.com/user-attachments/assets/bf1d8f9e-8687-4b75-92f9-0cb0d78ec15b" />
 
 ## v0.0.1
+<img width="40" height="40" alt="btn_close_over" src="https://github.com/user-attachments/assets/a1460722-bf6b-44f5-a4f3-c73cb57e1528" />e
 
-* Initial release
+## T<img width="40" height="40" alt="btn_close_over" src="https://github.com/user-attachments/assets/34b166a2-c32b-4143-81ec-bbbc539b53f5" />
+ODO<img width="728" height="336" alt="img_launcher" src="https://github.com/user-attachments/assets/c35f6a8a-bff4-4584-89c6-27db700ad381" />
+<img width="728" height="336" alt="img_launcher" src="https://github.com/user-attachments/assets/c11c7ce2-547a-4fbb-905e-0a494e09ff62" />
+<img width="240" height="26" alt="logo_launcher" src="https://github.com/user-attachments/assets/0f54c6ad-d978-496e-b82b-57a344bee30d" />
 
-## TODO
 
 * Output Plot
 * Debug
 * Language Server
 * Intellisense
+<img width="240" height="26" alt="logo_launcher" src="https://github.com/user-attachments/assets/74cc1107-d212-4b4e-aa6d-a82bf54b5887" />
+<img width="728" height="336" alt="img_launcher" src="https://github.c<img width="240" height="26" alt="logo_launcher" src="https://github.com/user-attachments/assets/18b345c4-3489-4b2f-98f5-5d88144cf498" />
+om/user-attachments/assets/21276e1d-9030-4ef5-960f-3d5c348be8b3" />
+<img width="728" height="336" alt="img_launcher" src="https://github.com/user-attachments/assets/8518cc6a-61f5-4b17-af7f-53831f37694a" />
